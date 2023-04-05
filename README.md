@@ -1,18 +1,5 @@
 ### Welcome : D 
 <p>My name is Daniel Briceño, But they know me as dabl03. </p>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p>
     I am a young man who always seeks to improve,
      what I do learning new technologies and reviewing the ones I already know according to how useful it seems to me at the time.
@@ -22,7 +9,7 @@ Here are some ideas to get you started:
    <ul>
        <li>C and C++</li>
        <li>Python</li>
-       <li>Java<li>
+       <li>Java</li>
        <li>JavaScript</li>
        <li>GolfScript</li>
    </ul>
@@ -30,9 +17,20 @@ Here are some ideas to get you started:
 <p>
   I also specialize in the development of web pages.
   <ul>
-       <li>HTNL</li>
-       <li>CSS</li>
-       <li>JS<li>
+       <li>
+           HTNL
+           <a href="http://www.w3.org/html/logo/">
+               <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="20" height="20" alt="HTML5 Powered" title="HTML5 Powered">
+           </a>
+       </li>
+       <li>CSS
+           <a href="https://jigsaw.w3.org/css-validator/check/referer">
+               <img src="https://jigsaw.w3.org/css-validator/images/vcss-blue" width="60" height="20" alt="¡CSS Válido!" />
+           </a>
+       </li>
+       <li>JS
+           <a href="https://www.freepnglogos.com/pics/javascript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/transparent-logo-javascript-7.png" width="20" height="20" alt="transparent logo javascript" /></a>
+       </li>
    </ul>
 </p>
 <p>
