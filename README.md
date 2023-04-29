@@ -33,7 +33,7 @@
   I also specialize in the development of web pages.
   <ul>
        <li>
-           HTNL
+           HTML
            <a href="http://www.w3.org/html/logo/">
                <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="25" height="25" alt="HTML5 Powered" title="HTML5 Powered">
            </a>
