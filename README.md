@@ -104,3 +104,12 @@
 <p>
     If the situation warrants it, I can do graphic design work, but I'm not very good.
 </p>
+
+## Some projects I have
+- <a href="https://dabl03.github.io/piano/">50-key virtual piano</a>
+- <a href="https://github.com/dabl03/add-path">Add-Path</a>: A tool to add folder URLs to the path, identifying them with a language or name. It is useful when you have several interpreters of different versions on the same machine.
+- <a href="https://dabl03.github.io/Snake-Eats-Apple/">Snake Eats Apple</a>: A video game about a snake eating meat apples. Currently in testing stage
+- <a href="https://lechugato.blogspot.com/">Tutorial C</a>: A tutorial I do as a hobby, I'm currently working on it.
+- <a href="https://dabl03.github.io/nave-attack/">Nave Attack</a>: A little video game I made when I started developing, I'm currently updating it
+- <a href="https://dabl03.github.io/Ping-Pong-en-la-Web/">Ping Pong in the website</a>: The first game I finished, I'm not currently interested in updating, but I would like to improve it a bit.
+- <a href="https://github.com/dabl03/Banco">Banco</a>: An app for bank administration, a project from a course they gave me.
